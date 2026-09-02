@@ -3,16 +3,19 @@ project:
   output-dir: docs
 
 website:
-  title: "website"
+  title: "Letícia Magpali"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: research.qmd
+        text: Research
+      - href: outreach.qmd
+        text: Outreach
 
 format:
   html:
-    theme: cosmo
+    theme: minty
     css: styles.css
     toc: true
 

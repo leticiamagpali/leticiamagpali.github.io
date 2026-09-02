@@ -1,11 +1,23 @@
 ---
-title: "website"
+title: "Letícia Magpali"
+about:
+  template: jolla
+  image: images/DSC05471.jpg
+  links:
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app
+    - icon: github
+      text: Github
+      href: https://github.com/leticiamagpali 
 ---
 
-This is a Quarto website.
+*PhD Candidate in Evolutionary Biology*
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Department of Biology, Dalhousie University \| Sept, 2021 - Present
 
-```{r}
-1 + 1
-```
+## Education
+
+BSc (*Hons.*) double major Biology & Education, University of Campinas \| 2021
+
+Thesis: Molecular evolution of hearing genes in freshwater and marine toothed whales

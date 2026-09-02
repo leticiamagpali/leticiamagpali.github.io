@@ -1,0 +1,27 @@
+---
+title: "Research"
+---
+
+## **Publications**
+
+*(citations: 31, H-index: 3)*
+
+### Peer-reviewed articles
+
+Lein-Borba, A.L., Selleghin-Veiga, G., Daros, B., **Magpali, L.**, Nery, M.F. (2026). Sensing Underwater: Diversifying Selection, Convergent Evolution and Inactivation in Sensory Receptors’ Genes of Aquatic Mammals. J Mol Evol 94, 629–654. <https://doi.org/10.1007/s00239-026-10327-2> 
+
+**Magpali, L.**, Ramos, E., Picorelli, A., Freitas, L., & Nery, M. F. (2024). Molecular evolution of toothed whale genes reveals adaptations to echolocating in different environments. BMC genomics, 25(1), 1049. <https://doi.org/10.1186/s12864-024-10910-1> 
+
+Selleghin-Veiga, G., **Magpali, L**., Picorelli, A., Silva, F. A., Ramos, E., & Nery, M. F. (2024). Breathing Air and Living Underwater: Molecular Evolution of Genes Related to Antioxidant Response in Cetaceans and Pinnipeds. Journal of Molecular Evolution, 92(3), 300-316.<https://doi.org/10.1007/s00239-024-10170-3> 
+
+Ramos, E., Selleghin-Veiga, G., **Magpali, L**., Daros, B., Silva, F., Picorelli, A., ... & Nery, M. F. (2023). Molecular Footprints on Osmoregulation-Related Genes Associated with Freshwater Colonization by Cetaceans and Sirenians. Journal of molecular evolution, 91(6), 865-881. <https://doi.org/10.1007/s00239-023-10141-0> 
+
+**Magpali, L.**, & Bielawski, J. P. (2023). Why are whales big? Genes behind ocean giants. Trends in Genetics, 39(6), 436-438**.** <https://doi.org/10.1016/j.tig.2023.03.005>  
+
+**Magpali, L.**, Machado, D. R., Araújo, T. Q., & Garraffoni, A. R. (2021). Long distance dispersal and pseudo-cryptic species in Gastrotricha: first description of a new species (Chaetonotida, Chaetonotidae, Polymerurus) from an oceanic island with volcanic rocks. European Journal of taxonomy, 746, 62-93. <https://doi.org/10.5852/ejt.2021.746.1319>
+
+### Book chapters
+
+Nery, M. F., Lein-Borba, A. L., & **Magpali, L**. (2025). Sensory Systems: Molecular Evolution in Vertebrates (pp. 399–412). Academic Press. <https://doi.org/10.1016/B978-0-443-15750-9.00155-5> 
+
+Bielawski, J. P., **Magpali, L.**, & Jones, C. (2025). Adaptive Molecular Evolution: Detection Methods (pp. 1–15). Academic Press. <https://doi.org/10.1016/B978-0-443-15750-9.00156-7>
