@@ -4,19 +4,22 @@ about:
   template: jolla
   image: images/DSC05471.jpg
   links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app
+    - icon: instagram
+      text: Instagram
+      href: https://www.instagram.com/leticiamagpali/ 
     - icon: github
       text: Github
-      href: https://github.com/leticiamagpali 
+      href: https://github.com/leticiamagpali
+    - icon: scholar
+      text: Scholar
+      href: https://scholar.google.com.br/citations?user=h9OetlEAAAAJ&hl=en 
 ---
 
 *PhD Candidate in Evolutionary Biology*
 
 Department of Biology, Dalhousie University \| Sept, 2021 - Present
 
-## Education
+## Education {style="margin-top: 2em;"}
 
 BSc (*Hons.*) double major Biology & Education, University of Campinas \| 2021
 
